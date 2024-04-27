@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MauricioPatino
-- 👀 I’m interested in Javascript, React, Flutter, Dart and Firebase
-- 🌱 I’m currently learning Flutter, Dart and Firebase
-- 💞️ I’m looking to collaborate on mobile applications using Flutter and Firebase.
+- 👀 I’m interested in Javascript, React Native, Flutter, Dart and Firebase
+- 🌱 I’m currently learning React nATIVE
+- 💞️ I’m looking to collaborate on mobile applications using React Native.
 - 📫 Email me at mauri.patino@gmail.com 
 
 <!---
