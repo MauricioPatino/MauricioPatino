@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MauricioPatino
-- 👀 I’m interested in Javascript, React Native, Flutter, Dart and Firebase
-- 🌱 I’m currently learning React nATIVE
+- 👀 Love Typescript.
+- 🌱 Making new projects with React Native.
 - 💞️ I’m looking to collaborate on mobile applications using React Native.
 - 📫 Email me at mauri.patino@gmail.com 
 
